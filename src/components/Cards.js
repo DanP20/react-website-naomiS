@@ -30,7 +30,7 @@ function Cards() {
               path='/services'
             />
             <CardItem
-              src='images/img-4.jpg'
+              src='images/img-1.jpg'
               text='Yoga'
               label='Body and mind'
               path='/products'
